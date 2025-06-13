@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jalen</h1>
 <h3 align="center">B.S., Computer Science at the University of Hawaiʻi at Mānoa • Software Development</h3>
 
-<!-- Remove underline and blue outline on links -->
-<style>
-  a {
-    text-decoration: none;
-    color: inherit;
-    outline: none;
-  }
-
-  a:focus,
-  a:active {
-    outline: none;
-  }
-</style>
-
 ---
 
 ### 👨‍💻 About Me
