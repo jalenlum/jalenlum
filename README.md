@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS @ University of Hawaiʻi at Mānoa (Dean's List AY 2022–2026)
+- 🎓 CS @ University of Hawaiʻi at Mānoa (Dean's List AY 2022–2025)
 - 🧠 Passionate about building scalable and modern web applications
 - 💻 Experienced with Python, JavaScript/TypeScript, and full stack development using React, Django, and SQL/NoSQL databases
 - 📬 Reach me at **808jalen@gmail.com**
